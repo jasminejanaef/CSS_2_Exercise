@@ -1,0 +1,14 @@
+
+
+h1 {
+    font-size: 3vw;
+  }
+
+img.responsive {
+    width: 30%;
+
+    <source srcset="/responsiveDog/img2/dog3.jpg" media="(max-width: 1500px)">
+    <source srcset="/responsiveDog/img2/dog-2.jpg" media="(max-width: 2600px)">
+    <source scrset="/responsiveDog/img2/dog-1.jpg">
+   
+}  
